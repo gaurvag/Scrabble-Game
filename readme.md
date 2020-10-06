@@ -5,8 +5,8 @@ Words selected from dictionary can be created from letters in bag.
 
 
 # Sample-Inputs
-  O* tbLush 
-  Zy ms*e
+  - O* tbLush 
+  - Zy ms*e
 
 
 # Some Points
